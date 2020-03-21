@@ -1,0 +1,8 @@
+
+ name:   Martins Chukwuma
+
+ email:   talk2mat2@yahoo.com
+ slack username: Martins_c
+ email:  talk2mat2@yahoo.com
+ tracks:  frontend and backend
+ courses  registered: html, css, javascript, python
