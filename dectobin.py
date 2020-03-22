@@ -9,5 +9,5 @@ while user_input != 0:
   user_input =temp
   value.append(remainder)
 print("the binary is")
-for x in value:
-	print (x,end ="")
+for item in value:
+	print (item,end ="")
