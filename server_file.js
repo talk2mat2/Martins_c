@@ -10,8 +10,8 @@ let handleRequest = (req, res) => {
             body += chunk.toString(); 
         });
         req.on('end', () => {
-            fs.appendFileSync('message.txt',body);
-            res.end('ok');
+            fs.appendFileSync('message.txt',body+'\r\n');
+            res.end(myHtml)
         });
     }
     else {
